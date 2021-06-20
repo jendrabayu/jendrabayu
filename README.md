@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jendrabayu)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=jendrabayu&hide_title=true&show_icons=true&hide=contribs&count_private=true&line_height=21"/>
